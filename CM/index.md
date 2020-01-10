@@ -1,2 +1,2 @@
-CM Projects Docs
+CM Projects Doc
 
